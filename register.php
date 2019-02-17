@@ -33,8 +33,11 @@
             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" required = 'required'>
         </div>
 
+<<<<<<< HEAD
         <div class="alert-danger js-error" style= "display:none;"></div>
 
+=======
+>>>>>>> a57fb33400d67f6741615d0a80f5690e8f6c0f76
         <!-- <div class="form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1">
             <label class="form-check-label" for="exampleCheck1">Check me out</label>
