@@ -1,3 +1,4 @@
+HEAD
 <?php echo "Hello world! test" ?>
 
 <!doctype html>
@@ -31,7 +32,7 @@
             <input type="checkbox" class="form-check-input" id="exampleCheck1">
             <label class="form-check-label" for="exampleCheck1">Check me out</label>
         </div> -->
-        
+
         <button type="submit" class="btn btn-primary">Login</button>
     </form>
 
@@ -44,3 +45,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
   </body>
 </html>
+=======
+<?php echo "Hello world!" ?>
+>>>>>>> 29f3af6a8dc5c56371f600791cc30a44ca460d11
